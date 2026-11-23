@@ -1,6 +1,6 @@
 # role-eng
 
-Role engineering for your codebase. Give your coding agent a rough request, and it scopes the job the way a senior engineer would before it touches any code.
+P̶r̶o̶m̶p̶t̶ Role engineering for your codebase. Give your coding agent a rough request, and it scopes the prompt the way a senior engineer would before it touches any code.
 
 ## The problem
 
